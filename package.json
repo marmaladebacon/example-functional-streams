@@ -1,0 +1,11 @@
+{
+  "name": "functional-streams",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type":"module",
+  "scripts": {
+    "start:server": "node server.js",
+    "start:client": "node client.js"
+  }
+}
